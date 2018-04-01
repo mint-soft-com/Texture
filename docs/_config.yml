@@ -22,3 +22,5 @@ defaults:
 collections:
   docs:
     output: true
+
+theme: jekyll-theme-minimal
